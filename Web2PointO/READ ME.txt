@@ -1,0 +1,5 @@
+Some of these files need to run on a server i.e. localhost.
+
+SoundBranch - A dynamic web 2.0 mash up which incorporates music recommendation systems such as the echo nest, deezer and last.fm. all wrapped in responsive web design
+using the Foundation Framework 5 by ZURB.
+NOTE - You may need to change some audio files with your own and set the relative paths in sm2player.html
