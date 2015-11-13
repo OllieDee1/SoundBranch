@@ -1,1 +1,0 @@
-Octopus - A game made in objective-c
